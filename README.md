@@ -4,6 +4,11 @@ Here are some common commands used for git:
 
 - **cd** - Change Directory
 - **pwd** - Pring Working Directory
+- **mkdir [name]** - Creates new Directory
+- **touch [file-name]** - Creates new empty file
+- **mv [original-file-location][new-file-location]** - Moves file from one location to another
+- **cp** - Copies file from one location to another
+- **rm** - Removes a file
 
 ## Configure Tooling
 
@@ -69,3 +74,16 @@ Here are some common commands used for git:
 - **git merge [bookmark]/[branch]** - Combines bookmark's branch into current local branch
 - **git push [alias][branch]** - Uploads all local branch commits to GitHub
 - **git pull** - Downloads bookmark history and incorporates changes
+
+### Dev Enviorment set up (GA level)
+
+- **Slack**
+- **Zoom**
+- **Homebrew**
+- **Xcode**
+- **VS Code**
+- **Git / Github / Github Enterprise**
+- **Global Gitignore**
+
+- **Spectacle**
+- **Imgur**
